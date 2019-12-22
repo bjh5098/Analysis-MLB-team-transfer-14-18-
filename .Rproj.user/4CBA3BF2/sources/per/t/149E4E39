@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575995049400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3409655026",
+    "id" : "149E4E39",
+    "lastKnownWriteTime" : 1575920229,
+    "last_content_update" : 1575920229,
+    "path" : "D:/workspace/Rproject/termproject/HOUcheat.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "82,100",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575823258670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1512291140",
+    "id" : "CCD39E28",
+    "lastKnownWriteTime" : 1576009891,
+    "last_content_update" : 1576009891076,
+    "path" : "D:/workspace/Rproject/SNA/SNA.R",
+    "project_path" : "SNA.R",
+    "properties" : {
+        "cursorPosition" : "1133,16",
+        "scrollLine" : "1114",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

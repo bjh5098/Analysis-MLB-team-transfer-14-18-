@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575994649523.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "658543EC",
+    "lastKnownWriteTime" : 1575958044,
+    "last_content_update" : 1575994649523,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EE3F9809",
+        "caption" : "winlose",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=winlose&cache_key=EE3F9809",
+        "displayedObservations" : "150",
+        "environment" : "",
+        "expression" : "winlose",
+        "object" : "winlose",
+        "preview" : "0",
+        "totalObservations" : "150",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

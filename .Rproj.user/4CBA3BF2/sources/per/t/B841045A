@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575828745567.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B841045A",
+    "lastKnownWriteTime" : 7308619195232122478,
+    "last_content_update" : 1575828745567,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B9FF89EF",
+        "caption" : "Batting",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3ALahman&obj=Batting&cache_key=B9FF89EF",
+        "displayedObservations" : "105861",
+        "environment" : "package:Lahman",
+        "expression" : "Batting",
+        "object" : "Batting",
+        "preview" : "0",
+        "totalObservations" : "105861",
+        "variables" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

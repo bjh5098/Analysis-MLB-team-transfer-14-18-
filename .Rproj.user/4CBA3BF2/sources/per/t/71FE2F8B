@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575824173250.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1394102783",
+    "id" : "71FE2F8B",
+    "lastKnownWriteTime" : 1575830773,
+    "last_content_update" : 1575830773,
+    "path" : "D:/workspace/Rproject/SNA/move.csv",
+    "project_path" : "move.csv",
+    "properties" : {
+        "cursorPosition" : "31,43",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

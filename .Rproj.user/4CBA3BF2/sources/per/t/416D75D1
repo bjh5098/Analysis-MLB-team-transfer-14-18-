@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575994985602.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "416D75D1",
+    "lastKnownWriteTime" : 1575958044,
+    "last_content_update" : 1575994985602,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "baebb5bf23814483a0ca4baf8b0ece90",
+        "name" : "winlose",
+        "title" : "winlose"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

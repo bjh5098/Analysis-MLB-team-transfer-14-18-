@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575829283910.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70CD9D8",
+    "lastKnownWriteTime" : 7954884637903448438,
+    "last_content_update" : 1575829283910,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3901655D",
+        "caption" : "Pitching",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3ALahman&obj=Pitching&cache_key=3901655D",
+        "displayedObservations" : "46699",
+        "environment" : "package:Lahman",
+        "expression" : "Pitching",
+        "object" : "Pitching",
+        "preview" : "0",
+        "totalObservations" : "46699",
+        "variables" : "30"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
